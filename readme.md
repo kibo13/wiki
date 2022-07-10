@@ -1,7 +1,7 @@
 # Электронный блокнот
 
 ### Laravel
-- [в процессе]()
+- [Создание собственных функций](posts/laravel-create-own-functions.md)
 - [в процессе]()
 
 ### JavaScript
