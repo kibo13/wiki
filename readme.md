@@ -2,28 +2,16 @@
 
 ### Laravel
 - [Создание собственных функций](posts/laravel-create-own-functions.md)
-- [в процессе]()
 
 ### JavaScript
 - [Получение параметров из адресной строки](posts/js-get-url-parameters.md)
-- [в процессе]()
-
-### Docker
-- [в процессе]()
-- [в процессе]()
-
-### Git
-- [в процессе]()
-- [в процессе]()
 
 ### SQL
 - [Оператор JOIN](posts/sql-join.md)
-- [в процессе]()
 
 ### Операционные системы
+- [Генерация SSH-ключей](posts/os-generate-ssh-keys.md)
 - [Планировщик задач CRON](posts/os-cron.md)
-- [в процессе]()
 
 ### Термины и определения
 - [Чистые функции](posts/notion-pure-functions.md)
-- [в процессе]()
