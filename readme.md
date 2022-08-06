@@ -7,6 +7,7 @@
 - [Получение параметров из адресной строки](posts/js-get-url-parameters.md)
 
 ### SQL
+- [Порядок выполнения SQL-операций](posts/sql-order-operations.md)
 - [Оператор JOIN](posts/sql-join.md)
 
 ### Операционные системы
