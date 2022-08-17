@@ -1,6 +1,7 @@
 # Электронный блокнот
 
 ### Laravel
+- [Создание собственных artisan-команд](posts/laravel-create-artisan-commands.md)
 - [Создание собственных функций](posts/laravel-create-own-functions.md)
 
 ### JavaScript
